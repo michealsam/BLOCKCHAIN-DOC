@@ -1,9 +1,6 @@
 # WHAT IS BLOCKCHAIN  TECHNOLOGY ?
 
-> [!TIP] DEFINATION
-> Blockchain technology is an advanced database mechanism that allows transparent information sharing within a business network.
-
- A blockchain database stores data in blocks that are linked together in a chain. The data is chronologically consistent because you cannot delete or modify the chain without consensus from the network. As a result, you can use blockchain technology to create an unalterable or immutable ledger for tracking orders, payments, accounts, and other transactions. The system has built-in mechanisms that prevent unauthorized transaction entries and create consistency in the shared view of these transactions.
+Blockchain technology is an advanced database mechanism that allows transparent information sharing within a business network.A blockchain database stores data in blocks that are linked together in a chain. The data is chronologically consistent because you cannot delete or modify the chain without consensus from the network. As a result, you can use blockchain technology to create an unalterable or immutable ledger for tracking orders, payments, accounts, and other transactions. The system has built-in mechanisms that prevent unauthorized transaction entries and create consistency in the shared view of these transactions.
 
 
 # Why is blockchain important?
@@ -221,11 +218,8 @@ This contract does not do much yet apart from (due to the infrastructure built b
 
 
 
-> [!NOTE] Defination
-> [Ganache](https://trufflesuite.com/ganache) is a personal blockchain for rapid Ethereum and Corda distributed application development. 
 
-
-You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment.
+[Ganache](https://trufflesuite.com/ganache) is a personal blockchain for rapid Ethereum and Corda distributed application development. You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment.
 
 Ganache comes in two flavors: a UI and CLI. Ganache UI is a desktop application supporting both Ethereum and Corda technology. Our more robust command-line tool, [ganache](https://github.com/trufflesuite/ganache), is available for Ethereum development. It offers:
 
@@ -252,9 +246,7 @@ All versions of Ganache are available for Windows, Mac, and Linux.
 # What is Truffle?[¶](https://trufflesuite.com/docs/truffle/#what-is-truffle "Permanent link")
 
 
-> [!important] Defination
-> A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. 
-
+A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. 
 With Truffle, you get:
 
 -   Built-in smart contract compilation, linking, deployment and binary management.
