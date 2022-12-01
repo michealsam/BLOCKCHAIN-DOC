@@ -1,7 +1,3 @@
-```toc
-```
-
-
 # WHAT IS BLOCKCHAIN  TECHNOLOGY ?
 
 > [!TIP] DEFINATION
