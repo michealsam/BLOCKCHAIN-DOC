@@ -1,27 +1,6 @@
+```toc
+```
 
-# TABLE OF CONTENT
-
-- [[#WHAT IS BLOCKCHAIN  TECHNOLOGY ?|WHAT IS BLOCKCHAIN  TECHNOLOGY ?]]
-- [[#Why is blockchain important?|Why is blockchain important?]]
-- [[#BLOCKCHAIN DEVELOPMENT ROADMAP|BLOCKCHAIN DEVELOPMENT ROADMAP]]
-		- [[#Blockchain development introduction|Blockchain development introduction]]
-			- [[#Blockchain development introduction#Core developers|Core developers]]
-			- [[#Blockchain development introduction#App developers|App developers]]
-		- [[#What you need to know|What you need to know]]
-			- [[#What you need to know#1. The Etherium blockchain|1. The Etherium blockchain]]
-			- [[#What you need to know#2. Web development|2. Web development]]
-				- [[#2. Web development#Front-end|Front-end]]
-				- [[#2. Web development#Back-end|Back-end]]
-			- [[#What you need to know#3. Smart contract development|3. Smart contract development]]
-			- [[#What you need to know#4. Solidity|4. Solidity]]
-			- [[#What you need to know#5. Front-end development|5. Front-end development]]
-		- [[#Conclusion|Conclusion]]
-- [[#Introduction to Smart Contracts|Introduction to Smart Contracts]]
-	- [[#Introduction to Smart Contracts#A Simple Smart Contract|A Simple Smart Contract]]
-		- [[#A Simple Smart Contract#Storage Example|Storage Example]]
-- [[#EXAMPLE OF SOLIDITY|EXAMPLE OF SOLIDITY]]
-- [[#What is Ganache?[¶](https://trufflesuite.com/docs/ganache/#what-is-ganache "Permanent link")|What is Ganache?]]
-- [[#What is Truffle?[¶](https://trufflesuite.com/docs/truffle/#what-is-truffle "Permanent link")|What is Truffle?]]
 
 # WHAT IS BLOCKCHAIN  TECHNOLOGY ?
 
